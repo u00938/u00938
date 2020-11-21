@@ -5,7 +5,6 @@
 
 ![u00938's github stats](https://github-readme-stats.vercel.app/api?username=u00938&show_icons=true&theme=prussian&title_color=B8DAFE&text_color=fff&icon_color=EDED49)
 
-![Blog](https://img.shields.io/github/watchers/u00938/u00938.github.io?color=%23fff&label=My%20blog&logo=github&style=for-the-badge)
 
 
 <!--
