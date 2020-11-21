@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 :simple_smile: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fu00938&count_bg=%23EFC3B8&title_bg=%239BC4F3&icon=datadog.svg&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+- 🌱 I’m currently learning JavaScript, Python
+
+![u00938's github stats](https://github-readme-stats.vercel.app/api?username=u00938&show_icons=true&theme=prussian&title_color=B8DAFE&text_color=fff&icon_color=EDED49)
+
 
 <!--
 **u00938/u00938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
