@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning JavaScript, Python
 - 📫 How to reach me: u0938223@gmail.com
+- Blog: https://velog.io/@dhldksgehl
 
 ![u00938's github stats](https://github-readme-stats.vercel.app/api?username=u00938&show_icons=true&theme=prussian&title_color=B8DAFE&text_color=fff&icon_color=EDED49)
 
